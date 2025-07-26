@@ -6,7 +6,7 @@ This repository contains a Power BI dashboard designed to monitor and analyze **
 
 ## 🔍 Dashboard Overview
 
-![SLA Dashboard](Screenshot%202025-07-26%20213419.png)
+![SLA Dashboard](overviewimg.png)
 ---
 
 ## 📌 Key Features
